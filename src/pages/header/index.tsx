@@ -15,7 +15,7 @@ function Header() {
 
             <div className='left-header'>
                 <img src={Logo} alt='Logo'/>
-                <h1>True Donate</h1>
+                <h1 className='logo-text'>True Donate</h1>
             </div>
 
             <div className='right-header'>
