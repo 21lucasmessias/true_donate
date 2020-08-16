@@ -2,6 +2,7 @@ import React from 'react';
 
 import './styles.css'
 import Header from '../header';
+import Footer from '../footer';
 
 function Tip(){
 	return (
@@ -27,9 +28,7 @@ function Tip(){
 				</div>
 			</div>
 			
-			<a className='help' href='/'>
-				Ajude-nos a manter o propósito vivo
-			</a>
+			<Footer />
 		</div>
 	);
 }

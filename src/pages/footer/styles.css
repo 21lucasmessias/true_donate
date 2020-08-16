@@ -1,0 +1,17 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.help {
+    font: 300 1rem Poppins;
+    color: white;
+    text-decoration: none;
+
+    transition: opacity 0.2s;
+}
+
+.help:hover {
+    opacity: 50%;
+}
