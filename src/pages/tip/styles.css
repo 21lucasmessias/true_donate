@@ -195,6 +195,7 @@
             top: 10rem;
         }
     }
+
 }
 
 @media (min-width: 551px) {
@@ -226,10 +227,8 @@
 .help {
     position: absolute;
     bottom: 0;
-    padding-bottom: 1rem;
-    padding-left: 1rem;
 
-    font: 300 1.5rem Poppins;
+    font: 300 1rem Poppins;
     color: white;
     text-decoration: none;
 
