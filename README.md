@@ -1,0 +1,1 @@
+This project was created because I indentified a problem with donates from streamers, they have so much tax in PayPal and this isnt fair, then this idea surged. True Donate became to help streamers to have all the donated money in your account. This project are a experience and test for my habilits with react :) 
